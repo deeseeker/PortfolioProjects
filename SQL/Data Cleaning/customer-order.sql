@@ -1,6 +1,8 @@
 --DATA CLEANING AND TRANSFORMATION (customer_table)
 
 --DATA SOURCE: https://www.db-fiddle.com/f/7VcQKQwsS3CTkGRFG7vu98/65
+---- written article on project:   https://dee-seeker.medium.com/sql-data-wrangling-task-1-case-study-2-pizza-runner-a527c7e276a
+
 
 --ASSESS
 SELECT *
