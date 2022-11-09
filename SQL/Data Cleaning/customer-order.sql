@@ -1,5 +1,6 @@
 --DATA CLEANING AND TRANSFORMATION (customer_table)
 
+--DATA SOURCE: https://www.db-fiddle.com/f/7VcQKQwsS3CTkGRFG7vu98/65
 
 --ASSESS
 SELECT *
