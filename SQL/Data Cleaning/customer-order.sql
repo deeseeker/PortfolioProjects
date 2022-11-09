@@ -67,6 +67,6 @@ FROM pizza_runner.customer_orders
 
 
 --TEST
---CHECK Cleaned customer_order table
+--CHECK Cleaned customer-order table
 SELECT *
 FROM customer_orders
