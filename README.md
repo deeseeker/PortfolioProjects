@@ -6,7 +6,7 @@ This portfolio is a collection of all the data science, python and data analysis
 ## Core Competencies
 
 - **Methodologies**: Machine Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, Big Data Analytics
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), SQL, HTML, CSS
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), SQL
 - **Tools**: Postgres SQL, Tableau, Git, MS Excel, Django
 
 ## Projects
