@@ -13,11 +13,11 @@ This portfolio is a collection of all the data science, python and data analysis
 
 ### Work Projects
 
-<img align="left" width="250" height="150" src=""> **[Route Watch Analysis](https://www.thehaulagehub.com/)**
+**[Route Watch Analysis](https://www.thehaulagehub.com/)**
 to be filled
  
  
-<img align="left" width="250" height="150" src=""> **[Price Watch Analysis](https://www.thehaulagehub.com/)**
+**[Price Watch Analysis](https://www.thehaulagehub.com/)**
 to be filled
 
 
