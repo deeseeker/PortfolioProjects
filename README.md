@@ -11,9 +11,10 @@ This portfolio is a collection of all the data science, python and data analysis
 
 ## Projects
 
-### Work Projects
+### Work Based Projects
 
-**[Truck Manager](https://www.thehaulagehub.com/)**
+**[Truck Manager](https://www.thehaulagehub.com/)** 
+
 The objective of this project is to develop a digital platform designed to manage all trucking operations across board, and to enhance supply chain visibility using machine learning algorithm trained on real time and built historical data. In this project, I designed the data requirements, data definitions,
 and data collection technique standards following some the CRISP-DM process model.
  
