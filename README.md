@@ -1,6 +1,6 @@
 # My Portfolio - Qudus Adeyemi
-This portfolio is a collection of all the data science, python and data analysis projects I have completed for work, school, self-improvement, and leisure. It also lists my skills and certifications. 
--NB: This portfolio is regularly updated.-
+This portfolio is a collection of all the data science, python and data analysis projects I have completed for work, self-improvement, and leisure. It also lists my skills and certifications. 
+*NB: This portfolio is regularly updated.*
 
 ## Core Competencies
 
