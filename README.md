@@ -8,6 +8,15 @@ This portfolio is a collection of all the data science, python and data analysis
 - **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), SQL, HTML, CSS
 - **Tools**: Postgres SQL, Tableau, Git, MS Excel, Django
 
+## Projects
+
+### Work Projects
+
+<img align="left" width="250" height="150" src=""> **[Route Watch Analysis](https://www.thehaulagehub.com/)**
+to be filled
+ 
+<img align="left" width="250" height="150" src=""> **[Price Watch Analysis](https://www.thehaulagehub.com/)**
+to be filled
 ## Certificates
 
 - [UDACITY ALX-DATA ANALYST NANODEGREE](https://confirm.udacity.com/TLGG3ZGJ)
