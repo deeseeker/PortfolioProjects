@@ -8,17 +8,14 @@
 # 2: This method will also help you: https://www.w3schools.com/python/ref_string_replace.as
 # 3: THis method will help you: https://www.w3schools.com/python/ref_string_strip.asp
 
+PLACEHOLDER = "[name]"
+
 with open('input/Names/invited_names.txt') as file:
     invites = file.read().split()
-    print(invites)
 
 with open('input/Letters/starting_letter.txt') as file:
-    letter = file.readlines()
-    print(letter)
+    letter = file.read()
     for invite in invites:
-        print(invite)
-        letter[0] = letter[0].replace(letter[0], f'Dear {invite}')
-        print(letter)
+        new_letter = letter.replace(PLACEHOLDER, invite)
         with open(f"output/ReadyToSend/{invite}.txt", "w") as file:
-            for line in letter:
-                file.write(line)
+                file.write(new_letter)
